@@ -15,8 +15,8 @@ I'm a passionate **[cyber security,penetration testing,VAPT]** I'm currently wor
 ### My Dev Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&theme=radical" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[veetaragpatil]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[veetaragpatil]&theme=radical" alt="Your Top Languages" />
 </p>
 
 ---
