@@ -16,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veetaragpatil&show_icons=true&locale=en" alt="veetaragpatil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veetaragpatil&" alt="veetaragpatil" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=veetaragpatil)](https://git.io/streak-stats)
