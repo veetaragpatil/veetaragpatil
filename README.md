@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Veetarag%20Patil&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff)">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Veetarag%20Patil&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff)"/>
 
 ### AI Engineer | Building Intelligent Systems with LLMs & Gen AI
 
 <p align="center">
   <a href="https://vijaykonakeri.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/vijay-konakeri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Vijay-konakeri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/veetarag-patil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/veetaragpatil"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://medium.com/@vijay.bk698"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="mailto:vijay.bk698@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:veetaragpatil333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=600&lines=Cybersecurity+trainee+%7C+Penetration+tester+;Security+research+%7C+Bug+bounty+hunter;Breaking+things+to+make+them+stronger" alt="Typing SVG"/>
@@ -22,16 +22,18 @@
 
 <img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a **passionate AI Engineer** with **2+ years** of hands-on experience crafting production-grade **Generative AI solutions**. Currently working at **Centelon Solutions** in Bangalore, I specialize in building intelligent systems that make a real difference.
+I’m a driven cybersecurity trainee with hands-on experience in penetration testing and web application security, focused on identifying real-world vulnerabilities and understanding attacker behavior.
 
-My journey in AI is driven by curiosity and innovation. I love exploring the endless possibilities of **Large Language Models**, architecting sophisticated **RAG pipelines**, and creating **multi-agent systems** that solve complex real-world challenges.
+My journey in cybersecurity is powered by curiosity and persistence. I enjoy mapping attack surfaces, exploiting logic flaws, and breaking applications responsibly to understand how systems fail—and how they can be secured better.
+
+I believe strong security comes from thinking like an attacker while acting with discipline and ethics.
 
 ### 🎯 Core Expertise
-- 🤖 **Gen AI Development** - LLM applications with GPT-4, Llama-2, Mistral
-- 🔍 **RAG Systems** - 85%+ accuracy pipelines with Pinecone & ChromaDB
-- ☁️ **Cloud Deployment** - Scalable solutions on AWS SageMaker & Azure
-- ⚡ **Model Fine-tuning** - LoRA/PEFT optimization techniques
-- 🚀 **API Development** - Robust inference APIs with Flask & FastAPI
+- 🔍 **Web Application Security** – OWASP Top 10, IDOR, access control flaws
+- 🕸️ **Penetration Testing** – Recon, enumeration, exploitation (hands-on labs)
+- 🧪 **Security Research** – Real-world vulnerability discovery & testing
+- 🧰 **Offensive Tools** – Burp Suite, Nmap, Kali Linux, Metasploit
+- ⚙️ **Automation Basics** – Python scripting for security testing
 
 <br clear="right"/>
 
@@ -44,8 +46,8 @@ My journey in AI is driven by curiosity and innovation. I love exploring the end
 timeline
     title My Professional Journey
     section Education
-        2019-2022 : 🎓 Bachelor in Computer Applications
-                  : Rani Channamma University
+        2022-2026 : 🎓 BTech in computer science and Eng
+                  : Sanjay Ghodawat University
     section Professional Experience
         2023-2024 : 💼 Junior Data Scientist
                   : Inquipo Technologies
@@ -158,10 +160,10 @@ timeline
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vijay-konakeri">
+  <a href="https://linkedin.com/in/veetarag-patil">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:vijay.bk698@gmail.com">
+  <a href="mailto:veetaragpatil333@gmail.com">
     <img src="https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://twitter.com/vijaykonakeri">
