@@ -12,7 +12,7 @@
   <a href="mailto:vijay.bk698@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Gen+AI+%7C+LLMs+%7C+RAG+Systems;Building+Production+AI+Solutions;2%2B+Years+in+AI%2FML+Engineering;Open+Source+Contributor" alt="Typing SVG"/>
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+trainee+%7C+Penetration+testing+%7C+Web+security;Security+research+%7C+Bug+bounty+hunter;Breaking+things+to+make+them+stronger" alt="Typing SVG"/>
 
 </div>
 
