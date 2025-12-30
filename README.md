@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Veetarag%20Patil/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Veetarag%20Patil&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff)">
 
 ### AI Engineer | Building Intelligent Systems with LLMs & Gen AI
 
