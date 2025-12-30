@@ -1,19 +1,181 @@
-<h1 align="center">Hi 👋, I'm veetarag patil</h1>
-<h3 align="center">A passionate Cybersecurity Analyst | Penetration Tester | Cloud Security Enthusiast from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veetaragpatil" alt="veetaragpatil" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Veetarag%20Patil/>
 
-- 🔭 I’m currently working on [bug hunting tools](https://github.com/veetaragpatil/CyberSecurity-tools)
+### AI Engineer | Building Intelligent Systems with LLMs & Gen AI
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/veetarag-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/veetarag-patil" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://vijaykonakeri.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/vijay-konakeri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Vijay-konakeri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://medium.com/@vijay.bk698"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:vijay.bk698@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Gen+AI+%7C+LLMs+%7C+RAG+Systems;Building+Production+AI+Solutions;2%2B+Years+in+AI%2FML+Engineering;Open+Source+Contributor" alt="Typing SVG"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veetaragpatil&show_icons=true&locale=en" alt="veetaragpatil" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veetaragpatil&" alt="veetaragpatil" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=veetaragpatil)](https://git.io/streak-stats)
+<br>
+
+## 💫 About Me
+
+<img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+I'm a **passionate AI Engineer** with **2+ years** of hands-on experience crafting production-grade **Generative AI solutions**. Currently working at **Centelon Solutions** in Bangalore, I specialize in building intelligent systems that make a real difference.
+
+My journey in AI is driven by curiosity and innovation. I love exploring the endless possibilities of **Large Language Models**, architecting sophisticated **RAG pipelines**, and creating **multi-agent systems** that solve complex real-world challenges.
+
+### 🎯 Core Expertise
+- 🤖 **Gen AI Development** - LLM applications with GPT-4, Llama-2, Mistral
+- 🔍 **RAG Systems** - 85%+ accuracy pipelines with Pinecone & ChromaDB
+- ☁️ **Cloud Deployment** - Scalable solutions on AWS SageMaker & Azure
+- ⚡ **Model Fine-tuning** - LoRA/PEFT optimization techniques
+- 🚀 **API Development** - Robust inference APIs with Flask & FastAPI
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📚 Experience Timeline
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#6366F1','primaryTextColor':'#fff','primaryBorderColor':'#818CF8','lineColor':'#A5B4FC','secondaryColor':'#4F46E5','tertiaryColor':'#312E81'}}}%%
+timeline
+    title My Professional Journey
+    section Education
+        2019-2022 : 🎓 Bachelor in Computer Applications
+                  : Rani Channamma University
+    section Professional Experience
+        2023-2024 : 💼 Junior Data Scientist
+                  : Inquipo Technologies
+        2024-Present : 🚀 Gen AI/ML Engineer
+                     : Centelon Solutions
+    section Open Source
+        Continuous : 🌟 Opensource Contribution
+             : Contributing to AI/ML Projects
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🗄️ Vector Databases & Search
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge)
+![Faiss](https://img.shields.io/badge/Faiss-0081CB?style=for-the-badge&logo=meta&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🌐 Web Development & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 Key Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="64"/>
+<br><b>35%</b>
+<br><sub>Reduction in Dev Time</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/accuracy.png" width="64"/>
+<br><b>85%+</b>
+<br><sub>Retrieval Accuracy</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/documents.png" width="64"/>
+<br><b>4000+</b>
+<br><sub>Documents Indexed</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/user-group-man-man.png" width="64"/>
+<br><b>50+</b>
+<br><sub>Developers Empowered</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏅 Certifications
+
+<div align="center">
+
+| 🎓 Certification | 🏛️ Organization | 📅 Status |
+|:----------------|:----------------|:----------|
+| **Oracle Certified Professional - Generative AI** | Oracle | ✅ Certified |
+| **Generative AI with Large Language Models** | Coursera | ✅ Certified |
+| **Deep Learning and Artificial Intelligence** | Udemy | ✅ Certified |
+| **Data Analytics Professional Certificate** | LinkedIn | ✅ Certified |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+### 💬 *I'm always excited to collaborate on innovative AI projects!*
+
+**Open for:** AI Collaborations • Freelance Opportunities • Tech Consulting • Speaking Engagements
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vijay-konakeri">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vijay.bk698@gmail.com">
+    <img src="https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/vijaykonakeri">
+    <img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://vijaykonakeri.dev">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<br>
+
+### ⚡ *"Building the future with AI, one model at a time"* ⚡
+
+<br>
+
+</div>
