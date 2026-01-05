@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Veetarag%20Patil&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff)"/>
 
-### AI Engineer | Building Intelligent Systems with LLMs & Gen AI
+### Cybersecurity Enthusiast | VAPT & Web Application Security | Bug Bounty Practitioner
 
 <p align="center">
   <a href=""><img 
@@ -47,16 +47,14 @@ I believe strong security comes from thinking like an attacker while acting with
 timeline
     title My Professional Journey
     section Education
-        2022-2026 : 🎓 BTech in computer science and Eng
+        2022-2026 : 🎓 BTech in computer science and Eng(final year)
                   : Sanjay Ghodawat University
     section Professional Experience
-        2023-2024 : 💼 Junior Data Scientist
-                  : Inquipo Technologies
-        2024-Present : 🚀 Gen AI/ML Engineer
-                     : Centelon Solutions
+        2023-2024 : 💼 Junior penetration tester
+                  : Public bug bounty
     section Open Source
         Continuous : 🌟 Opensource Contribution
-             : Contributing to AI/ML Projects
+             : Contributing to cybersecurity Projects
 ```
 
 
@@ -117,38 +115,7 @@ timeline
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 Key Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="64"/>
-<br><b>35%</b>
-<br><sub>Reduction in Dev Time</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/accuracy.png" width="64"/>
-<br><b>85%+</b>
-<br><sub>Retrieval Accuracy</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/documents.png" width="64"/>
-<br><b>4000+</b>
-<br><sub>Documents Indexed</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/user-group-man-man.png" width="64"/>
-<br><b>50+</b>
-<br><sub>Developers Empowered</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -158,10 +125,9 @@ timeline
 
 | 🎓 Certification | 🏛️ Organization | 📅 Status |
 |:----------------|:----------------|:----------|
-| **Ethical Hacking & Web Penetration Testing ** | udemy | ✅ Certified |
-| **Generative AI with Large Language Models** | Coursera | ✅ Certified |
-| **Deep Learning and Artificial Intelligence** | Udemy | ✅ Certified |
-| **Data Analytics Professional Certificate** | LinkedIn | ✅ Certified |
+| **Ethical Hacking & Web Penetration Testing** | udemy | ✅ Certified |
+| **Python For Cybersecurity** | Udemy | ✅ Certified |
+| **Cisco Networking** | Cisco | ✅ Ongoing |
 
 </div>
 
