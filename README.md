@@ -66,36 +66,54 @@ timeline
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
+### 🛡️ Cybersecurity & Penetration Testing
+![VAPT](https://img.shields.io/badge/VAPT-000000?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web%20Security-4B0082?style=for-the-badge)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-FF4500?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp)
+![API Security](https://img.shields.io/badge/API%20Security-005571?style=for-the-badge)
+
+---
+
+### 🧰 Security Tools & Platforms
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-0A0A0A?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-800000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+### 🖥️ Operating Systems & Networking
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP/IP-006400?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-4169E1?style=for-the-badge)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-8B0000?style=for-the-badge)
+
+---
+
+### 🧑‍💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Bash%2FShell%20scripting-black?logo=gnu-bash)
-![Static Badge](https://img.shields.io/badge/Power%20Shell-blue)
-![Static Badge](https://img.shields.io/badge/Javascript-orenge?logo=javascript)
-![Static Badge](https://img.shields.io/badge/SQL-green?logo=postgresql)
-![Static Badge](https://img.shields.io/badge/HTML%2FCSS-orange?logo=html5)
+![Bash](https://img.shields.io/badge/Bash%20Scripting-000000?style=for-the-badge&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🗄️ Vector Databases & Search
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge)
-![Faiss](https://img.shields.io/badge/Faiss-0081CB?style=for-the-badge&logo=meta&logoColor=white)
+---
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🌐 Web & Application Security
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Auth Testing](https://img.shields.io/badge/Auth%20%26%20Session%20Testing-2F4F4F?style=for-the-badge)
+![IDOR](https://img.shields.io/badge/IDOR-8B0000?style=for-the-badge)
 
-### 🌐 Web Development & Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+---
 
-### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+### 🎯 Practice Platforms
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox)
+![CTF](https://img.shields.io/badge/CTF%20Challenges-006400?style=for-the-badge)
+
 
 </div>
 
