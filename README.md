@@ -50,7 +50,7 @@ timeline
         2022-2026 : 🎓 BTech in computer science and Eng(final year)
                   : Sanjay Ghodawat University
     section Professional Experience
-        2023-2024 : 💼 Junior penetration tester
+        Continuous : 💼 Junior penetration tester
                   : Public bug bounty
     section Open Source
         Continuous : 🌟 Opensource Contribution
