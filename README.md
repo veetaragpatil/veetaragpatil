@@ -13,7 +13,7 @@ src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge" alt
   <a href="mailto:veetaragpatil333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=600&lines=Cybersecurity+trainee+%7C+Penetration+tester+;Security+research+%7C+Bug+bounty+hunter;Breaking+things+to+make+them+stronger" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=600&lines=Cybersecurity+trainee+%7C+Penetration+tester+;Security+research+%7C+Bug+bounty+hunter;Breaking+things+to+make+them+stronger" alt="Typing SVG"/>
 
 </div>
 
