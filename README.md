@@ -5,7 +5,7 @@
 ### Network Engineer | Routing & Switching | Network Security & Infrastructure
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://veetaragpatil.dev/"><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/veetarag-patil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/veetaragpatil"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://medium.com/@vijay.bk698"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
