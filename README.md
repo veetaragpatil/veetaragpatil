@@ -2,18 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Veetarag%20Patil&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff)"/>
 
-### Cybersecurity Enthusiast | VAPT & Web Application Security | Bug Bounty Practitioner
+### Network Engineer | Routing & Switching | Network Security & Infrastructure
 
 <p align="center">
-  <a href=""><img 
-src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/veetarag-patil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/veetaragpatil"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://medium.com/@vijay.bk698"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="mailto:veetaragpatil333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href=""><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/veetarag-patil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/veetaragpatil"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://medium.com/@vijay.bk698"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:veetaragpatil333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=600&lines=Cybersecurity+trainee+%7C+Penetration+tester+;Security+research+%7C+Bug+bounty+hunter;Breaking+things+to+make+them+stronger" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=600&lines=Network+Engineer+%7C+Routing+%26+Switching;Designing+and+maintaining+reliable+networks;Building+secure%2C+scalable+infrastructure" alt="Typing SVG"/>
 
 </div>
 
@@ -21,20 +20,21 @@ src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge" alt
 
 ## 💫 About Me
 
-<img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Networking" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I’m a driven cybersecurity trainee with hands-on experience in penetration testing and web application security, focused on identifying real-world vulnerabilities and understanding attacker behavior.
+I'm a network engineer focused on designing, configuring, and maintaining reliable network infrastructure. I enjoy working across the stack, from cabling and switching to routing, addressing, and securing the traffic that flows between systems.
 
-My journey in cybersecurity is powered by curiosity and persistence. I enjoy mapping attack surfaces, exploiting logic flaws, and breaking applications responsibly to understand how systems fail—and how they can be secured better.
+My approach is grounded in understanding how networks behave end to end, troubleshooting methodically, and keeping infrastructure resilient, performant, and secure.
 
-I believe strong security comes from thinking like an attacker while acting with discipline and ethics.
+With a background in cybersecurity, I bring a security-first mindset to network design, helping build environments that are both efficient and well protected.
 
 ### 🎯 Core Expertise
-- 🔍 **Web Application Security** – OWASP Top 10, IDOR, access control flaws
-- 🕸️ **Penetration Testing** – Recon, enumeration, exploitation (hands-on labs)
-- 🧪 **Security Research** – Real-world vulnerability discovery & testing
-- 🧰 **Offensive Tools** – Burp Suite, Nmap, Kali Linux, Metasploit
-- ⚙️ **Automation Basics** – Python scripting for security testing
+
+- 🌐 **Routing & Switching** – VLANs, STP, OSPF, EIGRP, static & dynamic routing
+- 🔧 **Network Configuration** – Switches, routers, and access points
+- 🛡️ **Network Security** – Firewalls, ACLs, VPNs, segmentation
+- 📡 **Protocols & Services** – TCP/IP, DNS, DHCP, NAT, HTTP/HTTPS
+- 🧪 **Troubleshooting & Monitoring** – Packet analysis, performance and fault diagnosis
 
 <br clear="right"/>
 
@@ -47,16 +47,15 @@ I believe strong security comes from thinking like an attacker while acting with
 timeline
     title My Professional Journey
     section Education
-        2022-2026 : 🎓 BTech in computer science and Eng(final year)
+        2022-2026 : 🎓 BTech in Computer Science and Engineering (final year)
                   : Sanjay Ghodawat University
     section Professional Experience
-        Continuous : 💼 Junior penetration tester
-                  : Public bug bounty
-    section Open Source
-        Continuous : 🌟 Opensource Contribution
-             : Contributing to cybersecurity Projects
+        Continuous : 💼 Network Engineer
+                   : Network design, configuration & support
+    section Learning & Labs
+        Continuous : 🌟 Hands-on Networking Labs
+                   : Packet Tracer, GNS3 & home lab projects
 ```
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -64,58 +63,51 @@ timeline
 
 <div align="center">
 
-### 🛡️ Cybersecurity & Penetration Testing
-![VAPT](https://img.shields.io/badge/VAPT-000000?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web%20Security-4B0082?style=for-the-badge)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-FF4500?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp)
-![API Security](https://img.shields.io/badge/API%20Security-005571?style=for-the-badge)
+### 🌐 Networking & Infrastructure
+
+![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-006400?style=for-the-badge)
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-005571?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-4B0082?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-1679A7?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network%20Security-000000?style=for-the-badge)
 
 ---
 
-### 🧰 Security Tools & Platforms
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-0A0A0A?style=for-the-badge)
-![SQLmap](https://img.shields.io/badge/SQLmap-800000?style=for-the-badge)
+### 🧰 Tools & Platforms
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-005571?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-1A1A1A?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 
 ---
 
-### 🖥️ Operating Systems & Networking
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-TCP/IP-006400?style=for-the-badge)
+### 📡 Protocols & Services
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-006400?style=for-the-badge)
 ![DNS](https://img.shields.io/badge/DNS-4169E1?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-2F4F4F?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/OSPF-800000?style=for-the-badge)
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-8B0000?style=for-the-badge)
 
 ---
 
-### 🧑‍💻 Programming & Scripting
+### 🖥️ Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+### 🧑‍💻 Scripting & Automation
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash%20Scripting-000000?style=for-the-badge&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🌐 Web & Application Security
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Auth Testing](https://img.shields.io/badge/Auth%20%26%20Session%20Testing-2F4F4F?style=for-the-badge)
-![IDOR](https://img.shields.io/badge/IDOR-8B0000?style=for-the-badge)
-
----
-
-### 🎯 Practice Platforms
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox)
-![CTF](https://img.shields.io/badge/CTF%20Challenges-006400?style=for-the-badge)
-
+![Network Automation](https://img.shields.io/badge/Network%20Automation-2F4F4F?style=for-the-badge)
 
 </div>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -123,46 +115,39 @@ timeline
 
 <div align="center">
 
+<!-- TODO: confirm your actual certifications / status -->
 | 🎓 Certification | 🏛️ Organization | 📅 Status |
 |:----------------|:----------------|:----------|
-| **Ethical Hacking & Web Penetration Testing** | udemy | ✅ Certified |
-| **Python For Cybersecurity** | Udemy | ✅ Certified |
-| **Cisco Networking** | Cisco | ✅ Ongoing |
+| **CCNA (Cisco Certified Network Associate)** | Cisco | 🔄 In Progress |
+| **CompTIA Network+** | CompTIA | 🔄 Planned |
+| **Cisco Networking** | Cisco | ✅ Certified |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
-### 💬 *I'm always excited to collaborate on innovative cybersecurity projects!*
+### 💬 *I'm always excited to collaborate on networking and infrastructure projects!*
 
-**Open for:** Security Research • Penetration Testing Projects • Bug Bounty Collaboration • Research Opportunities
+**Open for:** Network Design • Infrastructure Projects • Troubleshooting & Support • Learning Opportunities
 
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/veetarag-patil">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:veetaragpatil333@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="https://linkedin.com/in/veetarag-patil"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:veetaragpatil333@gmail.com"><img src="https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href=""><img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href=""><img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <br>
 
-### ⚡ *"We apply pressure until the cracks show, then we seal them."* ⚡
+### ⚡ *"Connecting systems, securing traffic, and keeping networks running."* ⚡
 
 <br>
 
 </div>
+
